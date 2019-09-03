@@ -1,3 +1,11 @@
+<html>
+<body>
+<h2>Welcome to JavaScript</h2>
+<script>
+document.write("Hello JavaScript by JavaScript");
+</script>
+</body>
+</html>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jwu168/20190830web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
